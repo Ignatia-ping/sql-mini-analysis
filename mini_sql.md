@@ -4,7 +4,7 @@
 - Data source : Bigquery Public Dataset
 - Dataset : The look E-commerce
 
-created by : Riki
+created by : Silfi
 
 ## Analysis
 
@@ -21,7 +21,7 @@ FROM
 
 **Ouput**
 
-terdapat sebanyak 181.589 item yang tecatat dalam transaksi the look commerce
+Terdapat Sebanyak 181.589 Item yang tecatat dalam transaksi the look commerce
 
 ### 2. Top 3 kategori produk yang tercatat ?
 **Syntax**
